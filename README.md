@@ -28,7 +28,37 @@ Required Python libraries (listed in ``**requirements.txt**``)
 
 ### Installation
 
+1. Clone the repository:
 ```bash
 git clone https://github.com/adibk/energy_consumption
 cd energy_consumption
 ```
+
+2. Install the required packages:
+```bash
+pip install -r requirements.txt
+```
+
+### Running the Analysis and Model
+...
+
+### Running the Dashboard
+...
+
+## Results
+The analysis and model results provide insights into the factors impacting CO2 emissions and energy consumption. The interactive dashboard allows users to explore these results and make predictions for buildings without measurements.
+
+## Authors
+- djesson695
+- wolfwithwanderlust
+- gdemerges
+- adibk
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For questions or comments, please contact adibk.
