@@ -29,6 +29,6 @@ Required Python libraries (listed in ``**requirements.txt**``)
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/seattle-co2-emissions.git
-cd seattle-co2-emissions
+git clone https://github.com/adibk/energy_consumption
+cd energy_consumption
 ```
