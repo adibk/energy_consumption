@@ -6,10 +6,15 @@ This project involves analyzing CO2 emissions and energy consumption data for 33
 The project is divided into several key steps:
 
 1 - Data Cleaning and Preparation: Process and clean the dataset to ensure it is suitable for analysis and modeling.
+
 2 - Model Research: Investigate suitable models for predicting CO2 emissions and energy consumption.
+
 3 - Baseline Model Creation: Develop an initial baseline model to provide a reference point for further improvements.
+
 4 - Model Iteration and Optimization: Iterate on the baseline model, optimizing parameters to improve accuracy.
+
 5 - Model Explainability: Apply methods such as SHAP to interpret and explain the model's predictions.
+
 6 - Dashboard Creation: Develop an interactive dashboard using Streamlit or Power BI to visualize the analysis and model results.
 
 ## Data
