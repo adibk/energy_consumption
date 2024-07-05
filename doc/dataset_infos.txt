@@ -1,0 +1,12 @@
+cf: https://www.seattle.gov/environment/climate-change/buildings-and-energy/energy-benchmarking
+
+Seattle's Energy Benchmarking Law (Seattle Municipal Code 22.920) requires owners of non-residential and multifamily buildings 
+(greater than 20,000 square feet) to track energy performance and annually report to the City of Seattle. 
+See the Seattle Energy Benchmarking Fact Sheet for more information. 
+
+year: 2016
+
+City: Seattle
+
+Le comté de King (anglais : King County) est un des 39 comtés de l'État américain de Washington. 
+Son siège est Seattle. Selon le recensement de 2018, sa population est de 2 233 163 habitants.
